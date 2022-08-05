@@ -1,0 +1,26 @@
+body {
+    background-color:lightgrey;
+    text-align:center;
+}
+#header {
+    background-color:grey;
+    border-radius:15px;
+}
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:arial;
+}
+#panel {
+    border-radius:15px;
+    background-color:grey;
+    float:left;
+}
+button {
+    background-color:lightgrey;
+    border:2px solid grey;
+    color:white;
+}
+canvas {
+    border-radius:15px;
+    border:2px solid grey;
+}
